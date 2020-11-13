@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sree-profile/static/css/main.503079ab.chunk.css",
-    "main.js": "/sree-profile/static/js/main.6e17fa37.chunk.js",
-    "main.js.map": "/sree-profile/static/js/main.6e17fa37.chunk.js.map",
+    "main.js": "/sree-profile/static/js/main.a264de77.chunk.js",
+    "main.js.map": "/sree-profile/static/js/main.a264de77.chunk.js.map",
     "runtime-main.js": "/sree-profile/static/js/runtime-main.01d7d57a.js",
     "runtime-main.js.map": "/sree-profile/static/js/runtime-main.01d7d57a.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sree-profile/static/css/2.20aa2d7b.chunk.css",
@@ -23,7 +23,6 @@
     "static/media/about-style.css": "/sree-profile/static/media/about-img1.30e93f72.jpg",
     "static/media/index.css": "/sree-profile/static/media/bg-002.a82e5a4c.jpg",
     "static/media/civil-engg.bf0f8b35.jpg": "/sree-profile/static/media/civil-engg.bf0f8b35.jpg",
-    "static/media/contact-img.045aab35.jpg": "/sree-profile/static/media/contact-img.045aab35.jpg",
     "static/media/contract-mgmt.07920c8a.jpg": "/sree-profile/static/media/contract-mgmt.07920c8a.jpg",
     "static/media/logo-2.58461d49.png": "/sree-profile/static/media/logo-2.58461d49.png",
     "static/media/home-style.css": "/sree-profile/static/media/nav-bg.7fbb0797.jpg",
@@ -35,6 +34,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.f83ca575.chunk.js",
     "static/css/main.503079ab.chunk.css",
-    "static/js/main.6e17fa37.chunk.js"
+    "static/js/main.a264de77.chunk.js"
   ]
 }
