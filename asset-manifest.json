@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sree-profile/static/css/main.503079ab.chunk.css",
-    "main.js": "/sree-profile/static/js/main.72bd9cfc.chunk.js",
-    "main.js.map": "/sree-profile/static/js/main.72bd9cfc.chunk.js.map",
-    "runtime-main.js": "/sree-profile/static/js/runtime-main.eefd11cf.js",
-    "runtime-main.js.map": "/sree-profile/static/js/runtime-main.eefd11cf.js.map",
+    "main.js": "/sree-profile/static/js/main.b48563f0.chunk.js",
+    "main.js.map": "/sree-profile/static/js/main.b48563f0.chunk.js.map",
+    "runtime-main.js": "/sree-profile/static/js/runtime-main.01d7d57a.js",
+    "runtime-main.js.map": "/sree-profile/static/js/runtime-main.01d7d57a.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sree-profile/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.cd9ef7f0.chunk.js": "/sree-profile/static/js/2.cd9ef7f0.chunk.js",
-    "static/js/2.cd9ef7f0.chunk.js.map": "/sree-profile/static/js/2.cd9ef7f0.chunk.js.map",
-    "static/js/3.c16c1161.chunk.js": "/sree-profile/static/js/3.c16c1161.chunk.js",
-    "static/js/3.c16c1161.chunk.js.map": "/sree-profile/static/js/3.c16c1161.chunk.js.map",
+    "static/js/2.f83ca575.chunk.js": "/sree-profile/static/js/2.f83ca575.chunk.js",
+    "static/js/2.f83ca575.chunk.js.map": "/sree-profile/static/js/2.f83ca575.chunk.js.map",
+    "static/js/3.d5dbcafe.chunk.js": "/sree-profile/static/js/3.d5dbcafe.chunk.js",
+    "static/js/3.d5dbcafe.chunk.js.map": "/sree-profile/static/js/3.d5dbcafe.chunk.js.map",
     "index.html": "/sree-profile/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/sree-profile/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.503079ab.chunk.css.map": "/sree-profile/static/css/main.503079ab.chunk.css.map",
-    "static/js/2.cd9ef7f0.chunk.js.LICENSE.txt": "/sree-profile/static/js/2.cd9ef7f0.chunk.js.LICENSE.txt",
+    "static/js/2.f83ca575.chunk.js.LICENSE.txt": "/sree-profile/static/js/2.f83ca575.chunk.js.LICENSE.txt",
     "static/media/001 - TVM - Kappil (3) (1).2c9de954.jpg": "/sree-profile/static/media/001 - TVM - Kappil (3) (1).2c9de954.jpg",
     "static/media/001 - TVM - MMRC - Pazhayangadi.7701a9af.jpeg": "/sree-profile/static/media/001 - TVM - MMRC - Pazhayangadi.7701a9af.jpeg",
     "static/media/001 - TVM - Madavoorppara (3) (1).8919bdb4.jpg": "/sree-profile/static/media/001 - TVM - Madavoorppara (3) (1).8919bdb4.jpg",
@@ -30,10 +30,10 @@
     "static/media/sreejith-photo.9053bf3e.jpg": "/sree-profile/static/media/sreejith-photo.9053bf3e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eefd11cf.js",
+    "static/js/runtime-main.01d7d57a.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.cd9ef7f0.chunk.js",
+    "static/js/2.f83ca575.chunk.js",
     "static/css/main.503079ab.chunk.css",
-    "static/js/main.72bd9cfc.chunk.js"
+    "static/js/main.b48563f0.chunk.js"
   ]
 }
