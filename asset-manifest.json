@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sree-profile/static/css/main.3b431039.chunk.css",
-    "main.js": "/sree-profile/static/js/main.29a91770.chunk.js",
-    "main.js.map": "/sree-profile/static/js/main.29a91770.chunk.js.map",
+    "main.js": "/sree-profile/static/js/main.81712861.chunk.js",
+    "main.js.map": "/sree-profile/static/js/main.81712861.chunk.js.map",
     "runtime-main.js": "/sree-profile/static/js/runtime-main.b165b8a5.js",
     "runtime-main.js.map": "/sree-profile/static/js/runtime-main.b165b8a5.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sree-profile/static/css/2.20aa2d7b.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.1e680dda.chunk.js",
     "static/css/main.3b431039.chunk.css",
-    "static/js/main.29a91770.chunk.js"
+    "static/js/main.81712861.chunk.js"
   ]
 }
