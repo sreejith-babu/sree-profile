@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sree-profile/static/css/main.bc25f5cd.chunk.css",
+    "main.css": "/sree-profile/static/css/main.60cb1ae1.chunk.css",
     "main.js": "/sree-profile/static/js/main.0d161790.chunk.js",
     "main.js.map": "/sree-profile/static/js/main.0d161790.chunk.js.map",
     "runtime-main.js": "/sree-profile/static/js/runtime-main.b165b8a5.js",
@@ -12,7 +12,7 @@
     "static/js/3.72f1f087.chunk.js.map": "/sree-profile/static/js/3.72f1f087.chunk.js.map",
     "index.html": "/sree-profile/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/sree-profile/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.bc25f5cd.chunk.css.map": "/sree-profile/static/css/main.bc25f5cd.chunk.css.map",
+    "static/css/main.60cb1ae1.chunk.css.map": "/sree-profile/static/css/main.60cb1ae1.chunk.css.map",
     "static/js/2.3af5eb40.chunk.js.LICENSE.txt": "/sree-profile/static/js/2.3af5eb40.chunk.js.LICENSE.txt",
     "static/media/001 - TVM - Kappil (3) (1).2c9de954.jpg": "/sree-profile/static/media/001 - TVM - Kappil (3) (1).2c9de954.jpg",
     "static/media/001 - TVM - MMRC - Pazhayangadi.7701a9af.jpeg": "/sree-profile/static/media/001 - TVM - MMRC - Pazhayangadi.7701a9af.jpeg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.b165b8a5.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.3af5eb40.chunk.js",
-    "static/css/main.bc25f5cd.chunk.css",
+    "static/css/main.60cb1ae1.chunk.css",
     "static/js/main.0d161790.chunk.js"
   ]
 }
